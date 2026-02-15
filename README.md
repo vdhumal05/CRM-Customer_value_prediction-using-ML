@@ -73,8 +73,11 @@ Environment	              Jupyter Notebook
 6) Sample Analysis Outputs
 
 ✔ Revenue Trend Line Graph
+
 ✔ Top 10 Products by Revenue
+
 ✔ Country-wise Revenue Distribution
+
 ✔ Customer Purchase Frequency Analysis
 
-📂 Project Archite
+
